@@ -2,9 +2,6 @@
 
 This is a minimalist, single-page portfolio website built with Streamlit, designed to showcase my professional experience, projects, and skills in frontend engineering and creative technology.
 
-## Preview
-
-![Portfolio Screenshot](screenshot.png)
 
 ## Features
 
